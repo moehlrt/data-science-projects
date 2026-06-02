@@ -1,0 +1,21 @@
+# Ignore all Jupyter notebook checkpoints
+.ipynb_checkpoints/
+Data_Analysis/.ipynb_checkpoints/
+
+# Ignore Python bytecode cache
+Analysis/__pycache__/
+/__pycache__
+__pycache__/
+
+# Ignore personal ideas note
+ideas.md
+
+# All DS Stores
+**/.DS_Store
+
+# Ignore inits
+__init__.py 
+
+.venv
+.ruff_cache
+todo.txt
